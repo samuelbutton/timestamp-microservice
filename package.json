@@ -8,4 +8,7 @@
   },
   "author": "",
   "license": "ISC"
+  "engines": {
+  	"node": "v11.12.0"
+  }
 }
